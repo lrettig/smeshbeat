@@ -1,0 +1,9 @@
+- key: smeshbeat
+  title: smeshbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION
