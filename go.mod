@@ -32,7 +32,7 @@ require (
 	github.com/tsg/go-daemon v0.0.0-20200207173439-e704b93fd89b
 	go.uber.org/zap v1.14.1 // indirect
 	golang.org/x/lint v0.0.0-20191125180803-fdd1cda4f05f
-	golang.org/x/sys v0.0.0-20200413165638-669c56c373c4 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/tools v0.0.0-20200415034506-5d8e1897c761
 	howett.net/plist v0.0.0-20200225050739-77e249a2e2ba // indirect
 )
